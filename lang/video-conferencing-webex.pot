@@ -1,0 +1,501 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Conferencing with Webex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 06:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: video-conferencing-webex"
+
+#: core/Admin/Importer/ui/import.php:21
+msgid "Action"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:224
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: core/Admin/Events/PostType.php:42
+msgid "Add New"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:43
+msgid "Add New Event"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:116
+msgid "Advanced Settings"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:47
+msgid "All Events"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:122
+msgid "Auto Record Meeting"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:180
+msgid "Automatic lock"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:188
+msgid "automatically lock my meeting in"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:100
+msgid "Category"
+msgstr ""
+
+#: core/Helpers/FormHelper.php:162
+msgid "Choose an option"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:56
+msgid ""
+"Choose whether to use one account for all users or use individual accounts "
+"for different users. If this option is checked users would have to connect "
+"their own webex account from their settings page. By default this is set to "
+"individual accounts.."
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:81
+msgid "Client ID"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:68
+msgid "Client ID or Client Secret cannot be empty."
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:98
+msgid "Client Secret"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:150 core/Admin/Settings/Settings.php:154
+msgid "Connect"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:65
+msgid "Connect Manully?"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:44
+msgid "Connect Webex Account"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:29
+msgid "Connected Account"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:44
+msgid "Connecting to Webex.. Please Wait.."
+msgstr ""
+
+#: templates/single-event/details.php:38
+#: templates/shortcodes/single-event/by-meeting-id.php:36
+#: templates/shortcodes/single-event/event-post-type.php:37
+msgid "Current Timezone"
+msgstr ""
+
+#: core/Admin/Recordings/ui/recordings.php:15
+msgid "Date Created"
+msgstr ""
+
+#: templates/single-event/countdown-timer.php:18
+msgid "days"
+msgstr ""
+
+#: core/Admin/Settings/ui/logs.php:15
+msgid "Delete log"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:27
+msgid "Disconnect your Webex Account"
+msgstr ""
+
+#: core/Admin/Recordings/ui/recordings.php:19
+msgid "Download"
+msgstr ""
+
+#: core/Admin/Recordings/ui/recordings.php:16
+#: core/Admin/Events/ui/event-settings.php:36
+msgid "Duration"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:45
+msgid "Edit Webex Event"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:32
+msgid "Email"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:138
+msgid "Enable Breakout sessions"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:98
+msgid "Enable Join before Host"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Enables you to visually collaborate, create, edit, delete and align your "
+"Webex meeting schedules directly from your WordPress dashboard."
+msgstr ""
+
+#: core/Admin/Settings/ui/general.php:27
+msgid ""
+"Enabling this option will not delete your meetings on your webex account. "
+"System will only delete it on this site."
+msgstr ""
+
+#: templates/archive-loop.php:25
+msgid "Event by"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:121
+msgid "Event Date"
+msgstr ""
+
+#: templates/single-event/details.php:17 core/Admin/Events/EventDetails.php:188
+msgid "Event Details"
+msgstr ""
+
+#: core/Plugin.php:135
+msgid ""
+"Event has started and is in progress. You can join the event by clicking the "
+"button below."
+msgstr ""
+
+#: core/Shortcodes/Shortcodes.php:38
+msgid "Event ID is required."
+msgstr ""
+
+#: core/Admin/Events/EventDetails.php:179
+msgid "Event Settings"
+msgstr ""
+
+#: templates/archive-event.php:24
+msgid "Events"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:213
+msgid ""
+"Everyone in your organization can always join unlocked meetings. When the "
+"meeting is unlocked"
+msgstr ""
+
+#: core/Admin/Recordings/ui/recordings.php:18
+msgid "Format"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:155
+msgid "General"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:220
+msgid "Guests can join the meeting"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:222
+msgid "Guests can't join the meeting"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:221
+msgid "Guests wait in the lobby until the hosts admits them"
+msgstr ""
+
+#: templates/single-event/details.php:24
+msgid "Hosted By"
+msgstr ""
+
+#: templates/single-event/countdown-timer.php:22
+#: core/Admin/Events/ui/event-settings.php:45
+msgid "hours"
+msgstr ""
+
+#: core/Admin/Menu/Menu.php:54 core/Admin/Menu/Menu.php:55
+msgid "Import"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:33
+msgid "Individual Accounts"
+msgstr ""
+
+#: core/Shortcodes/Shortcodes.php:49 core/Shortcodes/Shortcodes.php:68
+msgid "Invalid Meeting ID provided."
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:39
+msgid "Invalid nonce!"
+msgstr ""
+
+#: templates/shortcodes/single-event/by-meeting-id.php:40
+#: templates/shortcodes/single-event/event-post-type.php:41
+msgid "Join"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:120
+msgid "Join Event"
+msgstr ""
+
+#: templates/single-event/cta.php:16 core/Admin/Events/PostType.php:138
+#: templates/shortcodes/single-event/by-meeting-id.php:41
+#: templates/shortcodes/single-event/event-post-type.php:42
+#: core/Admin/Events/ui/event-details.php:8
+msgid "Join Now"
+msgstr ""
+
+#: core/Admin/Settings/ui/general.php:16
+msgid "Keep Webex Meetings?"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:156
+msgid "Logs"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:122 core/Admin/Importer/ui/import.php:18
+#: core/Admin/Events/ui/event-details.php:4
+msgid "Meeting ID"
+msgstr ""
+
+#: templates/shortcodes/single-event/by-meeting-id.php:16
+#: templates/shortcodes/single-event/event-post-type.php:17
+msgid "Meeting Number"
+msgstr ""
+
+#: core/Admin/Importer/Importer.php:77
+#, php-format
+msgid ""
+"Meeting with ID %s does not exists. Please check your webex account if the "
+"meeting ID provided really exists."
+msgstr ""
+
+#: core/Admin/Importer/Importer.php:82
+#, php-format
+msgid "Meeting with ID %s has already been imported or already exists."
+msgstr ""
+
+#: templates/single-event/countdown-timer.php:26
+#: core/Admin/Events/ui/event-settings.php:58
+msgid "minutes"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:201
+msgid "minutes after the meeting starts."
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:31
+#: core/Admin/Recordings/ui/recordings.php:14
+msgid "Name"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:44
+msgid "New Webex Event"
+msgstr ""
+
+#: core/Admin/Settings/ui/logs.php:46
+msgid "No logs found."
+msgstr ""
+
+#: templates/archive-event.php:53
+msgid "No Meetings found."
+msgstr ""
+
+#: core/Admin/Events/PostType.php:51
+msgid "No Webex events found in Trash."
+msgstr ""
+
+#: core/Admin/Events/PostType.php:50
+msgid "No Webex events found."
+msgstr ""
+
+#: core/Admin/Events/PostType.php:49
+msgid "Parent meetings:"
+msgstr ""
+
+#: templates/shortcodes/single-event/by-meeting-id.php:25
+#: templates/shortcodes/single-event/event-post-type.php:26
+#: core/Admin/Events/ui/event-details.php:6
+#: core/Admin/Events/ui/event-settings.php:82
+msgid "Password"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:37
+msgid "Permission access denied!"
+msgstr ""
+
+#: core/Admin/Events/EventDetails.php:203
+msgid ""
+"Please create your event first in order to view your meeting details here."
+msgstr ""
+
+#: core/Admin/Events/EventDetails.php:75 core/Admin/Events/EventDetails.php:82
+msgid ""
+"Please re-update this event after correcting the error data provided above."
+msgstr ""
+
+#: core/Plugin.php:117
+msgid "Please wait while your Webex event is being imported: "
+msgstr ""
+
+#: core/Admin/Menu/Menu.php:45 core/Admin/Menu/Menu.php:46
+msgid "Recordings"
+msgstr ""
+
+#: core/Helpers/FormHelper.php:31
+msgid "required"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:48
+msgid "Search meetings"
+msgstr ""
+
+#: templates/single-event/countdown-timer.php:30
+msgid "seconds"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:174
+msgid "Security"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:94
+msgid "See how you can get your API Client ID"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:111
+msgid "See how you can get your API Client Secret"
+msgstr ""
+
+#: core/Admin/Menu/Menu.php:69
+msgid "Settings"
+msgstr ""
+
+#: core/Admin/Settings/Settings.php:136
+msgid "Settings updated !"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:13
+msgid "Shortcode"
+msgstr ""
+
+#: core/Admin/Importer/ui/import.php:8
+#: core/Admin/Recordings/ui/recordings.php:4
+msgid "Showing results from"
+msgstr ""
+
+#: core/Admin/Recordings/ui/recordings.php:17
+msgid "Size"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:42
+msgid "Source"
+msgstr ""
+
+#: templates/single-event/details.php:34 core/Admin/Importer/ui/import.php:20
+msgid "Start"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:20
+msgid "Start Date/Time *"
+msgstr ""
+
+#: templates/shortcodes/single-event/by-meeting-id.php:30
+#: templates/shortcodes/single-event/event-post-type.php:31
+msgid "Start Time"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:27
+msgid "Starting Date and Time of the Meeting (Required)."
+msgstr ""
+
+#: core/Admin/Importer/Importer.php:123
+#, php-format
+msgid "Successfully imported meeting: %s"
+msgstr ""
+
+#: core/Modules/Events/Ajax.php:44
+msgid "This event has completed and cannot be joined!"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:67
+msgid "Timezone"
+msgstr ""
+
+#: templates/single-event/details.php:21
+#: templates/shortcodes/single-event/by-meeting-id.php:20
+#: templates/shortcodes/single-event/event-post-type.php:21
+#: core/Admin/Importer/ui/import.php:19
+msgid "Topic"
+msgstr ""
+
+#: templates/single-event/details.php:29
+msgid "Type"
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:211
+msgid "Unlocked Meetings"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:49
+msgid "Use one account for all ?"
+msgstr ""
+
+#. Name of the plugin
+msgid "Video Conferencing with Webex"
+msgstr ""
+
+#: core/Admin/Settings/ui/logs.php:35
+msgid "View"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:46
+msgid "View meetings"
+msgstr ""
+
+#: core/Admin/Menu/Menu.php:68
+msgid "Webex Configurations"
+msgstr ""
+
+#: core/Admin/Events/PostType.php:38 core/Admin/Events/PostType.php:39
+#: core/Admin/Events/PostType.php:40 core/Admin/Events/PostType.php:41
+msgctxt "Webex Events"
+msgid "Webex Events"
+msgstr ""
+
+#: core/Admin/Settings/ui/connect.php:73
+msgid "When checked, you can connect with your own webex API credentials."
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:145
+msgid "Whether or not breakout sessions is enabled."
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:129
+msgid "Whether or not meeting is recorded automatically."
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:105
+msgid ""
+"Whether or not to allow any attendee to join the meeting before the host "
+"joins the meeting."
+msgstr ""
+
+#: core/Admin/Events/ui/event-settings.php:228
+msgid ""
+"You can choose what happens when guests join unlocked meetings. Guests are "
+"users who haven't signed in to their Webex accounts on this site, external "
+"users who don't have Webex accounts on this site, external video systems "
+"that aren't registered to this organization, and audio-only users who "
+"haven't signed in with an audio PIN."
+msgstr ""
